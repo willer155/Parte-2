@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dia Ideal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+
+        h2 {
+            color: #34495e;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .highlight {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Dia Ideal</h1>
+
+    <h2>Manhã</h2>
+    <p>
+        Durante a manhã, gosto de começar o dia tomando um <strong class="highlight">café</strong>.  e logo após vou para o trabalho
+    </p>
+
+    <h2>Tarde</h2>
+    <p>
+        À tarde, aproveito para me concentrar nas minhas atividades de trabalho, . Gosto de fazer algo <em class="highlight">produtivo</em> . depois de terminar minhas tarefas.                                                     
+    </p>
+
+    <h2>Noite</h2>
+    <p>
+        Quando a noite chega, gosto de relaxar e desfrutar de um jantar tranquilo. Depois, gosto de assistir a um filme ou série. As noites são perfeitas para refletir sobre o dia e me preparar para uma <strong class="highlight">excelente noite de sono</strong>.
+    </p>
+
+</body>
+</html>
